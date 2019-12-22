@@ -6,9 +6,9 @@ A line in the .txt file  will become an entry in the parsed data with 4 values:
 ```
 Example line: [31-10-2018 22:40:45] Jelle: Bodrum
 
-Date: 		31-10-2018
-Time: 		22:40:45
-Author: 	Jelle
+Date: 	  31-10-2018
+Time: 	  22:40:45
+Author:   Jelle
 Message:  Bodrum
 ```
 
