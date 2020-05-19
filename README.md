@@ -1,5 +1,5 @@
 # Whatsapp Chat Analyzer
-Small python script that normalizes WhatsApp group data to do some analytics on your fellow gang members.
+Small python script that normalizes WhatsApp group data to do some analytics on your whatsapp group chats.
 
 
 A line in the .txt file  will become an entry in the parsed data with 4 values:
